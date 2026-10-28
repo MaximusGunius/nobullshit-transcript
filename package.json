@@ -1,0 +1,10 @@
+{
+  "name": "nobullshit-yt-transcript",
+  "version": "1.1.0",
+  "private": true,
+  "description": "A simple YouTube transcript downloader backed by a Netlify Function",
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "youtube-transcript": "^1.3.1"
+  }
+}
